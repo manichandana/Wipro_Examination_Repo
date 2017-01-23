@@ -17,7 +17,7 @@ Steps to proceed with the execution :
 ---Maven clean
 ---Maven GenerateSources
 ---Maven build (tested using tomcat7 Server)
-*The output for the above step gives a link (say for instance http://localhost:8080/WebCrawlerApplication)in the conole which can be opened in any webbrowser for the output.
+*The output for the above step gives a link (say for instance http://localhost:8080/WebCrawlerApplication)in the console which can be opened in any webbrowser for the final WebCrawler output.
 
 
 If provided time can include  
