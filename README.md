@@ -1,5 +1,4 @@
-# Wipro_Examination_Repo
-Demo Crawler Web application
+# WebCrawlerApplication
 
 Name of the Repo : Wipro_Examination_Repo
 Name of the project :  WebCrawlerApplication
