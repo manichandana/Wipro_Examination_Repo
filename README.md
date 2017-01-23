@@ -5,6 +5,7 @@ Name of the Repo : Wipro_Examination_Repo
 Name of the project :  WebCrawlerApplication
 
 Description : 
+*Used Maven to test the application
 *It is a simple Web crawler project to demostrate navigation to other static and dynamic web projects under the same domain
 *Input :  The project accepts the input as "http://wiprodigital.com" and throws respective validations if any other input is specified.
 *output : Navigation to the respective web pages on clicking the links 
